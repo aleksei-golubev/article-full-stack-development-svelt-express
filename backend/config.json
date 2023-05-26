@@ -1,0 +1,4 @@
+{
+    "applicationPort": 3000,
+    "storageLocation": "C:/dev/my/rss-reader/backend/data"
+}

@@ -1,0 +1,4 @@
+{
+    "applicationPort": 3000,
+    "storageLocation": "./data"
+}
