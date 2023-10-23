@@ -1,6 +1,6 @@
 # Full stack development: Svelte + Express
 
-This is a repository with examples from article: [WIP] https://medium.com/@aleksei_golubev/....
+This is a repository with examples from article: https://medium.com/@aleksei_golubev/angular-developer-trying-svelte-e54898ca986b.
 
 Here you can find the implementation of RSS Reader.
 
