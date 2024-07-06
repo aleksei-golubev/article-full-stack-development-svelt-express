@@ -1,6 +1,8 @@
 # Full stack development: Svelte + Express
 
-This is a repository with examples from article: https://medium.com/@aleksei_golubev/angular-developer-trying-svelte-e54898ca986b.
+This is a repository with examples from articles:
+https://medium.com/@aleksei_golubev/angular-developer-trying-svelte-e54898ca986b
+https://medium.com/@aleksei_golubev/typescript-setup-for-node-js-project-28699ed3f6d0
 
 Here you can find the implementation of RSS Reader.
 
